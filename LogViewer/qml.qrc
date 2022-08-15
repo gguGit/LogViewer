@@ -1,5 +1,11 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>MenuBarView.qml</file>
+        <file>QuickMenuView.qml</file>
+        <file>LogView.qml</file>
+        <file>FilterView.qml</file>
+        <file>FilterResultView.qml</file>
+        <file>SearchResultView.qml</file>
     </qresource>
 </RCC>

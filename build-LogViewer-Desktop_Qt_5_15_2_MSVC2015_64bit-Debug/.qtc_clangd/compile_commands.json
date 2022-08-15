@@ -7,7 +7,7 @@
         "-I",
         "C:\\Qt\\Tools\\QtCreator\\share\\qtcreator\\cplusplus\\wrappedQtHeaders\\QtCore",
         "-I",
-        "C:\\Users\\alswn\\AppData\\Local\\Temp\\QtCreator-CCqubn\\clang-uiheader-WYkTtQ",
+        "C:\\Users\\alswn\\AppData\\Local\\Temp\\QtCreator-lTnDUv\\clang-uiheader-hglPZK",
         "-nostdinc",
         "-nostdinc++",
         "--driver-mode=cl",
